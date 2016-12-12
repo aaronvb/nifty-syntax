@@ -1,0 +1,17 @@
+{
+  "name": "nifty-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A bright syntax theme for Atom.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "nifty",
+    "snazzy"
+  ],
+  "repository": "https://github.com/aaronvb/nifty-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
