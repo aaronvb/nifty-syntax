@@ -2,6 +2,8 @@
 
 nifty syntax is a bright syntax theme, for Atom, based on the snazzy theme by https://github.com/sindresorhus.
 
+## Screenshots (UI theme is [Atom Material UI](https://github.com/atom-material/atom-material-ui))
+
 ### Ruby
 ![ruby](https://cloud.githubusercontent.com/assets/100900/21121122/bb975d42-c06e-11e6-9694-faa8cd4db571.jpg)
 
